@@ -1,0 +1,17 @@
+{
+    "name": "noemie/noem",
+    "description": "My first ORM",
+    "autoload": {
+        "psr-4": {
+            "Noem\\": "src/",
+            "App\\": "example/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Noémie",
+            "email": "noemie.kpatenon@supinternet.fr"
+        }
+    ],
+    "require": {}
+}
